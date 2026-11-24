@@ -2,6 +2,22 @@
 👨‍💻 Hi! I'm **Anurag Kumar**, a Computer Science and Engineering student specializing in Artificial Intelligence.<br><br>I'm an aspiring Software Developer and AI enthusiast passionate about building practical solutions, exploring emerging technologies, and continuously improving my technical skills.<br><br>- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI).<br><br>- 💻 Exploring Software Development, Artificial Intelligence, and Machine Learning.<br><br>- 🌱 Currently learning Python, C, C++, Java, and Data Structures & Algorithms.<br><br>- 🔍 Interested in AI/ML, Web Development, Problem Solving, and Open-Source Contributions.<br><br>- 🤝 Open to collaborating on learning-driven projects and innovative ideas.<br><br>- 🎨 Also interested in Graphic Design, Video Editing, and Creative Technology.<br><br>• **My Goal:** To transform ideas into meaningful projects through continuous learning, creativity, and technology.<br><br>"Learn ➜ Build ➜ Innovate ➜ Repeat..." 🚀
 
 
+
+## 🚀 Featured Projects
+
+### 🧮 Smart Calculator
+Scientific calculator with history, keyboard support and dark/light themes.
+[View Project](https://github.com/anuragpr-0810/anuragpr-0810.github.io/tree/main/projects/calculator-app)
+
+### 🎓 Student Management System
+Student records, attendance, marks, grades and CSV export.
+[View Project](https://github.com/anuragpr-0810/anuragpr-0810.github.io/tree/main/projects/student-management-system)
+
+### 🤖 Smart AI Study Assistant
+Study assistant with notes, quizzes, summaries and a Python FastAPI backend.
+[View Project](https://github.com/anuragpr-0810/anuragpr-0810.github.io/tree/main/projects/smart-ai-study-assistant)
+
+🌐 [Explore My Portfolio](https://anuragpr-0810.github.io/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuragpr_0810) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragkumar08-pri10/)
